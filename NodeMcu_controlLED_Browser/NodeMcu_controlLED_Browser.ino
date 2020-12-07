@@ -4,8 +4,8 @@
 
 #define LED D2
 
-const char* ssid = "Nilesh";
-const char* password = "33112155";
+const char* ssid = "<WiFi SSID>";
+const char* password = "<WiFi Password>";
 
 unsigned char status_led=0;
 WiFiServer server(80);
